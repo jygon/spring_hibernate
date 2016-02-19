@@ -1,2 +1,1 @@
-# spring_hibernate
-spring mvc with hibernate using xml and java classes configuration
+http://www.baeldung.com/hibernate-4-spring
